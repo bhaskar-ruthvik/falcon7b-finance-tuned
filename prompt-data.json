@@ -1,0 +1,567 @@
+[
+    {
+        "<human>": "What is finance?",
+        "<bot>": "Finance refers to the management of money and the allocation of resources to achieve financial objectives. It involves activities such as budgeting, investing, saving, borrowing, and risk management."
+    },
+    {
+        "<human>": "What is the difference between stocks and bonds",
+        "<bot>": "Stocks represent ownership in a company and provide the shareholder with a share of the company's profits and voting rights. Bonds, on the other hand, are debt instruments where the issuer (such as a government or corporation) borrows money from the bondholder and promises to repay it with interest over a specific period."
+    },
+    {
+        "<human>": "What is a credit score?",
+        "<bot>":"A credit score is a numerical representation of an individual's creditworthiness. It reflects their credit history, including payment history, outstanding debts, length of credit history, types of credit used, and new credit inquiries. Lenders and creditors use credit scores to assess the risk of lending money or extending credit to an individual."
+    },
+    {
+        "<human>": "How can I improve my credit score?",
+        "<bot>": "To improve your credit score, you can take the following steps.Pay your bills on time and in full, reduce your debt by paying down outstanding balances, avoid applying for too much new credit at once, regularly review your credit report for errors and dispute any inaccuracies, maintain a diverse mix of credit accounts (e.g., credit cards, loans) and avoid closing old accounts."
+    },
+    {
+        "<human>": "What is the difference between a traditional IRA and a Roth IRA",
+        "<bot>": "A traditional IRA (Individual Retirement Account) allows individuals to contribute pre-tax income, and the contributions grow tax-deferred until withdrawal during retirement. The withdrawals are then taxed as ordinary income. A Roth IRA, on the other hand, accepts after-tax contributions, and the growth and withdrawals are tax-free, provided certain conditions are met."
+    },
+    {
+        "<human>": "What is diversification",
+        "<bot>": "Diversification refers to spreading investments across different assets, sectors, or regions to reduce risk. By diversifying, investors can potentially minimize the impact of any individual investment's poor performance on their overall portfolio. It can be achieved by investing in a mix of stocks, bonds, real estate, and other asset classes."
+    },
+    {
+        "<human>": "What is a budget?",
+        "<bot>": "A budget is a financial plan that outlines an individual's or organization's expected income and expenses over a specific period. It helps in managing and allocating funds effectively, setting financial goals, and tracking progress. A budget can include categories such as income, fixed expenses, variable expenses, savings, and investments."
+    },
+    {
+        "<human>": "What is compound interest?",
+        "<bot>": "Compound interest is the interest calculated on the initial amount of money (principal) as well as the accumulated interest from previous periods. It allows your savings or investments to grow faster over time. Compound interest can work in your favor when saving or investing but can also work against you when you have outstanding debts."
+    },
+    {
+        "<human>": "What is the difference between a bull market and a bear market?",
+        "<bot>": "A bull market refers to a market condition where prices of securities (such as stocks) are rising or expected to rise. It is generally associated with optimism, investor confidence, and economic growth. A bear market, on the other hand, occurs when prices are falling or expected to fall. It is typically characterized by pessimism, investor uncertainty, and economic downturns."
+    },
+    {
+        "<human>": "What is a 401(k)?",
+        "<bot>": "A 401(k) is a retirement savings plan offered by employers in the United States. It allows employees to contribute a portion of their pre-tax income to a retirement account. The contributions grow tax-deferred until withdrawal during retirement. Some employers may also match a percentage of the employee's contributions, providing an additional incentive for saving."
+    },
+    {
+        "<human>": "What is the difference between a debit card and a credit card?",
+        "<bot>": "A debit card is linked directly to your bank account and allows you to make purchases using the available funds in your account. The money is deducted immediately from your account. A credit card, on the other hand, allows you to borrow money up to a certain credit limit. You're required to repay the borrowed amount, typically with interest, by the due date stated on your credit card statement."
+    },
+    {
+        "<human>": "What is the difference between a traditional bank and a credit union?",
+        "<bot>": "A traditional bank is a financial institution that accepts deposits, provides loans, and offers various financial services to individuals and businesses. It is typically for-profit and owned by shareholders. A credit union, on the other hand, is a not-for-profit financial cooperative owned by its members. Credit unions generally offer similar services to banks but often provide better rates and lower fees due to their cooperative structure."
+    },
+    {
+        "<human>": "What is a mortgage?",
+        "<bot>": "A mortgage is a loan that is used to finance the purchase of a property, usually a home. The property serves as collateral for the loan. The borrower (mortgagor) makes regular payments to the lender (mortgagee) over a predetermined period until the loan is fully repaid. If the borrower fails to make payments, the lender may have the right to foreclose on the property."
+    },
+    {
+        "<human>": "What is the difference between a traditional savings account and a money market account?",
+        "<bot>": "A traditional savings account is a basic account offered by banks that allows you to deposit money and earn interest on the balance. Withdrawals can usually be made at any time, although there may be certain limitations. A money market account (MMA) is a type of savings account that typically offers a higher interest rate. MMAs often require a higher minimum balance, and they may have limited check-writing abilities."
+    },
+    {
+        "<human>": "What is an index fund?",
+        "<bot>": "An index fund is a type of mutual fund or exchange-traded fund (ETF) that aims to replicate the performance of a specific market index, such as the S&P 500. Instead of trying to outperform the market, index funds seek to match the returns of the chosen index. They offer broad market exposure, diversification, and typically have lower fees compared to actively managed funds."
+    },
+    {
+        "<human>": "What is the difference between a traditional brokerage account and a retirement account?",
+        "<bot>": "A traditional brokerage account is a general investment account that allows you to buy and sell various securities, such as stocks, bonds, and mutual funds. There are no specific tax advantages associated with these accounts, and you can access your funds at any time. A retirement account, such as an Individual Retirement Account (IRA) or a 401(k), offers tax advantages and is designed for long-term retirement savings. Contributions to retirement accounts may be tax-deductible or grow tax-free until withdrawal, depending on the account type."
+    },
+    {
+        "<human>": "What is an emergency fund?",
+        "<bot>": "An emergency fund is a savings account specifically set aside to cover unexpected expenses or financial emergencies. It acts as a safety net, providing financial stability in case of job loss, medical bills, or major repairs. It is generally recommended to have three to six months' worth of living expenses saved in an emergency fund."
+    },
+    {
+        "<human>": "What is the difference between a traditional investment and a speculative investment?",
+        "<bot>": "A traditional investment typically refers to a more conservative and lower-risk investment approach. It focuses on assets that have a history of steady returns, such as stocks of established companies, bonds, or real estate. A speculative investment, on the other hand, involves a higher level of risk with the potential for higher returns. It often includes investments in emerging markets, start-up companies, or volatile assets, such as cryptocurrencies."
+    },
+    {
+        "<human>": "What is estate planning?",
+        "<bot>": "Estate planning involves creating a comprehensive plan for the management and distribution of your assets after your death. It typically includes drafting a will, establishing trusts, designating beneficiaries, and making arrangements for healthcare and financial decision-making in case of incapacity. Estate planning aims to ensure that your assets are transferred according to your wishes and that your loved ones are provided for."
+    },
+    {
+        "<human>": "What is the role of a financial advisor?",
+        "<bot>": "A financial advisor is a professional who provides guidance and advice on various financial matters, including investment strategies, retirement planning, tax planning, and estate planning. They help individuals and organizations make informed financial decisions based on their goals, risk tolerance, and financial situation. Financial advisors can provide personalized recommendations, monitor investments, and offer ongoing support to help clients achieve their financial objectives."
+    },
+    {
+        "<human>": "What is the relevance of finance in the climate change debate and negotiations?",
+        "<bot>": "Climate change has major implications in terms of finance. All actions to address climate change ultimately involve costs. Funding is vital for countries like India to design and implement adaptation and mitigation plans and projects. On the other hand, it is widely acknowledged that the costs of climate change actions are relatively high for developing countries The problem is more severe for developing countries like India, would be among the hardest hit by climate change. Moreover, beyond being vulnerable to climate change impacts, developing countries have fewer resources to adapt: socially, technologically and financially and also have claims of competing demand on the scarce resources available."
+    },
+    {
+        "<human>": "How does the provision of finance to developing countries relate to the articles of the Convention?",
+        "<bot>": "In view of 'common but differentiated responsibilities', and varying contributions to climate change by different countries, the articles of the UNFCCC Convention clearly make provisions regarding , who the providers of the resources would be and where the resources are needed. Article 4.3, establishes that the developed country Parties and other developed Parties included in Annex II shall provide new and additional financial resources to meet the agreed full costs incurred by developing country Parties in complying with their obligations under the convention."
+    },
+    {
+        "<human>": "Do the provision of funds under the Convention justify the requirement of climate change finance needed to address global adaptation and mitigation?",
+        "<bot>": "Even though, the Convention has squarely put the responsibility for the provision of financial support on the developed countries, the pledges and commitments taken by them to provide financial resources under the head of fast start finance and long term finance, only collectively amounts to US$ 30 billion for the period 2010-12 and US$ 100 billion annually from 2020, respectively. It has been estimated by many studies that the funds currently available under the Kyoto Protocol and the Convention are small compared to the magnitude of need assessed. The UNFCCC has estimated a requirement of US$ 200-210 billion in additional annual investment in 2030 to return GHG emissions to current levels."
+    },
+    {
+        "<human>": "How do the developed country Parties intend to meet their commitment under long term finance? What is the stance of developing countries on this?",
+        "<bot>": "The goal of long term finance is to raise US$ 100 billion annually by 2020 to fund climate change adaptation and mitigation in developing countries. The mobilization of this requisite amount has been agreed from a variety of sources- public and private, bilateral and multilateral, including alternative sources. However many developing countries are of the view that though alternative and private sources can be explored to fill the gaps between the demand and supply of climate finance, public finance should be at the core to ensure predictability and reliability of flow of funds to the developing countries. On the other hand, developed countries seem to be pushing this responsibility on the alternative and private sector due to their current weak fiscal and economic environment."
+    },
+    {
+        "<human>": " What do the terms 'new and additional' mean in the context of climate change finance negotiations?",
+        "<bot>": "The term 'new and additional' in the context of provision of finances by developed countries can be traced right from the text of the Convention to various COP decisions like Bali Action Plan, Copenhagen Accord and Cancun Agreements. For example, the Copenhagen Accord notes that, 'The collective commitment by developed countries is to provide new and additional resources, including forestry and investments through international institutions, approaching USD 30 billion for the period 2010-2012 with balanced allocation between adaptation and mitigation.' In this sense 'new and additional' refers to provision of financial resources that represent new commitment, rather than those that are diverted from flows that have already been earmarked for some other form of development assistance. Increasing resources flowing to climate finance should not lead to a reduction of resources available for development assistance."
+    },
+    {
+        "<human>": "What is Global Environment Facility (GEF)?",
+        "<bot>": "Global environment Facility was created in 1991 as a result of mounting concern in the preceding decade over global environmental problems and efforts to formulate financing responses to address these problems. Of the many ideas for financing environmentally beneficial projects proposed by various governmental and non-governmental institutions, the GEF was the one which finally received the necessary political and financial support. The GEF is funded by donor nations, who commit money every four years through a process known as GEF replenishment. The GEF makes these grants available to developing countries and economies in transition to support actions to address critical threats to the global environment in the areas related to biodiversity, climate change, international waters, land degradation, the ozone layer and persistent organic pollutants. Apart from serving as the financial mechanism of UNFCCC, GEF also serves as the financial mechanism of other Conventions, namely Convention on Biological Diversity (CBD), the Stockholm Convention on POPs and the UN Convention to Combat Desertification (CCD)."
+    },
+    {
+        "<human>": "Why was there a need to set up the Green Climate Fund , when already the GEF was set up?",
+        "<bot>": "With the growing realization about the large amount of resources that would be required for climate change mitigation and adaptation, especially in developing countries and also with fourth assessment report of the IPCC establishing this fact. It became evident that the funding and operational arrangements under the Global Environment Facility were inadequate, and there was a need for major and urgent reforms in the financial mechanism. With this, the developing countries initiated the talks on the need of a new green fund to carry out the full mandate of provision of financial resources to developing countries exclusively dedicated to climate change, unlike GEF which serves broader areas of global environment. Moreover, the GEF is based on voluntary contributions rather than being based on the principle of assessed contributions, which generates concerns over the political neutrality of the Fund. It was established at that time without any legal capacity and there were also other concerns, like lack of financing for adaptation. This is also because adaptation targets local impacts and associated vulnerabilities rather than generating global benefits, which the GEF mandates."
+    },
+    {
+        "<human>": "What is the green climate fund?",
+        "<bot>": "The Green Climate Fund (GCF) is designated as an operating entity of the Financial Mechanism of the United Nations Framework Convention on Climate Change (UNFCCC), which is accountable to and will function under the guidance of the Conference of the Parties (COP). It has been formed in accordance with article 11 of the Convention, and has been founded within the framework of the UNFCCC as a mechanism to transfer money from the developed to the developing world, in order to assist the developing countries in adaptation and mitigation actions to combat climate change. The formal decision to form this Fund was taken at the 15th CoP in Copenhagen. And it is expected that the GCF would deliver a significant portion of the climate finance pledge by developed countries to mobilize $100 billion per year by 2020 for mitigation and adaptation in developing countries."
+    },
+    {
+        "<human>": "Which countries are obligated to provide funds and which all Parties or countries are eligible to seek such funds provided by the GCF and the Convention?",
+        "<bot>": "The UNFCCC (Art 4.3) calls for developed country Parties and other developed Parties included in Annex II to provide new and additional financial resources to meet the agreed full costs incurred by developing country Parties in complying with their climate change obligations and needs. As far as the GCF is concerned, the governing instrument of the GCF specifies that the fund will receive financial inputs from developed country Parties to the Convention and it may also receive financial inputs from a variety of other sources, public and private, including alternative sources."
+    },
+    {
+        "<human>": "At the 17th CoP in Durban, which all features of the Green Climate Fund was India particularly interested in achieving? Were we able to strike a deal on all of them?",
+        "<bot>": "India wanted to see the Green Climate Fund to be operationalized particularly with a strong and independent legal status, a strong relationship between the COP and the GCF, as well as strong role for the National Implementing entities in the operation of Green Climate Fund. India played a key role in pushing for a satisfactory consensus outcome on the above features and was able to secure them through challenging rounds of negotiations. Through the final outcome of the negotiations, India and like minded countries were able to secure juridical personality and legal capacity as is necessary for the exercise of the GCF's functions and the protection of its interests."
+    },
+    {
+        "<human>": "Now that India is part of the 24 member board of the GCF, what issues are of concern to towards operationalization of GCF?",
+        "<bot>": "One of the significant achievements of the Durban meeting, held last year was the agreement by the Parties on operationalizing the GCF. However, a lot more needs to be done for ensuring enhanced operationalization of the GCF. The COP 18 held in Doha in December 2012, did take steps to further operationalize the GCF, which is expected to take off fully by the end of 2013. Also, the 24 member Board of the GCF, that India is a part of, has been set up."
+    },
+    {
+        "<human>": "What is the stock price of OTIS?",
+        "<bot>": "As of 2023-07-11, the stock prices of OTIS have a high of $88.05, a low of $87.28, an open price of $87.75, and a close price of $87.86. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of PNW?",
+        "<bot>": "As of 2023-07-11, the stock prices of PNW have a high of $81.75, a low of $81.28, an open price of $81.51, and a close price of $81.67. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of VTR?",
+        "<bot>": "As of 2023-07-11, the stock prices of VTR have a high of $48.37, a low of $47.99, an open price of $48.23, and a close price of $48.25. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of GOOGL?",
+        "<bot>": "As of 2023-07-11, the stock prices of GOOGL have a high of $117.33, a low of $115.36, an open price of $116.29, and a close price of $117.15. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of TEL?",
+        "<bot>": "As of 2023-07-11, the stock prices of TEL have a high of $141.83, a low of $140.84, an open price of $141.52, and a close price of $141.23. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of TRV?",
+        "<bot>": "As of 2023-07-11, the stock prices of TRV have a high of $170.77, a low of $168.89, an open price of $168.79, and a close price of $170.68. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of SYY?",
+        "<bot>": "As of 2023-07-11, the stock prices of SYY have a high of $74.69, a low of $73.93, an open price of $74.24, and a close price of $74.1. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of NKE?",
+        "<bot>": "As of 2023-07-11, the stock prices of NKE have a high of $106.98, a low of $105.64, an open price of $105.65, and a close price of $106.88. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of GD?",
+        "<bot>": "As of 2023-07-11, the stock prices of GD have a high of $215.57, a low of $213.9, an open price of $214.92, and a close price of $215.51. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of SWK?",
+        "<bot>": "As of 2023-07-11, the stock prices of SWK have a high of $97.19, a low of $93.92, an open price of $94.29, and a close price of $96.71. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of MKTX?",
+        "<bot>": "As of 2023-07-11, the stock prices of MKTX have a high of $249.29, a low of $244.97, an open price of $246.7, and a close price of $248.62. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of OGN?",
+        "<bot>": "As of 2023-07-11, the stock prices of OGN have a high of $21.07, a low of $20.26, an open price of $20.22, and a close price of $20.71. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of BK?",
+        "<bot>": "As of 2023-07-11, the stock prices of BK have a high of $44.61, a low of $44.24, an open price of $44.52, and a close price of $44.51. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of TJX?",
+        "<bot>": "As of 2023-07-11, the stock prices of TJX have a high of $84.2, a low of $83.61, an open price of $83.96, and a close price of $84.06. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of EW?",
+        "<bot>": "As of 2023-07-11, the stock prices of EW have a high of $92.59, a low of $91.64, an open price of $91.67, and a close price of $92.07. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of HII?",
+        "<bot>": "As of 2023-07-11, the stock prices of HII have a high of $230.01, a low of $226.87, an open price of $228.25, and a close price of $229.18. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of PSA?",
+        "<bot>": "As of 2023-07-11, the stock prices of PSA have a high of $292.09, a low of $289.12, an open price of $291.17, and a close price of $292.09. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of APA?",
+        "<bot>": "As of 2023-07-11, the stock prices of APA have a high of $36.7, a low of $35.28, an open price of $35.28, and a close price of $36.57. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of DXCM?",
+        "<bot>": "As of 2023-07-11, the stock prices of DXCM have a high of $132.11, a low of $130.36, an open price of $130.77, and a close price of $130.9. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of NVR?",
+        "<bot>": "As of 2023-07-11, the stock prices of NVR have a high of $6265.21, a low of $6214.2, an open price of $6252.01, and a close price of $6254.0. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of CBOE?",
+        "<bot>": "As of 2023-07-11, the stock prices of CBOE have a high of $137.75, a low of $135.83, an open price of $136.63, and a close price of $137.68. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of AIG?",
+        "<bot>": "As of 2023-07-11, the stock prices of AIG have a high of $58.74, a low of $58.09, an open price of $58.06, and a close price of $58.53. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of RVTY?",
+        "<bot>": "As of 2023-07-11, the stock prices of RVTY have a high of $118.47, a low of $116.74, an open price of $116.99, and a close price of $118.02. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of GPN?",
+        "<bot>": "As of 2023-07-11, the stock prices of GPN have a high of $107.84, a low of $106.31, an open price of $106.6, and a close price of $107.52. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of MCO?",
+        "<bot>": "As of 2023-07-11, the stock prices of MCO have a high of $342.58, a low of $338.38, an open price of $341.81, and a close price of $339.48. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of VLO?",
+        "<bot>": "As of 2023-07-11, the stock prices of VLO have a high of $115.36, a low of $112.58, an open price of $113.21, and a close price of $115.27. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of TMUS?",
+        "<bot>": "As of 2023-07-11, the stock prices of TMUS have a high of $139.42, a low of $137.9, an open price of $137.92, and a close price of $139.21. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of KMI?",
+        "<bot>": "As of 2023-07-11, the stock prices of KMI have a high of $17.29, a low of $16.97, an open price of $16.97, and a close price of $17.26. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of O?",
+        "<bot>": "As of 2023-07-11, the stock prices of O have a high of $59.71, a low of $59.24, an open price of $59.54, and a close price of $59.69. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of ABBV?",
+        "<bot>": "As of 2023-07-11, the stock prices of ABBV have a high of $135.2, a low of $133.68, an open price of $134.0, and a close price of $134.53. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of MHK?",
+        "<bot>": "As of 2023-07-11, the stock prices of MHK have a high of $110.62, a low of $107.96, an open price of $108.05, and a close price of $109.35. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of NTAP?",
+        "<bot>": "As of 2023-07-11, the stock prices of NTAP have a high of $79.29, a low of $78.15, an open price of $78.35, and a close price of $78.73. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "What is the stock price of FI?",
+        "<bot>": "As of 2023-07-11, the stock prices of FI have a high of $127.66, a low of $126.8, an open price of $126.93, and a close price of $127.32. Please check the required for sources for the latest stock prices."
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $ICICIBANK.NSE Trade in action & Very close to to the targets Bullish",
+        "<bot>": "The tweet is about: $ICICIBANK.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $ICICIBANK.NSE Stock is trading with bullish momentum as it is continuously rising and trading above Ema levels. Macd is also bullish and Rsi is in overbought zone. Bullish",
+        "<bot>": "The tweet is about: $ICICIBANK.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $ICICIBANK.NSE  \nBased on the chart analysis, it appears that there is a bullish crossover imminent on the Moving Average Convergence Divergence (MACD) indicator, which could signal a good buying opportunity for the stock. Additionally, the stock has recently crossed both its 200-day moving average (DMA) and 100 DMA, which is another positive signal for investors., it is possible that the stock could continue to rise in the future, with a potential target price of around 950. Bullish",
+        "<bot>": "The tweet is about: $ICICIBANK.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $ICICIBANK.NSE crossed the resistance line with low volume, but sustaining.  \nmedium strong bullish signals. Bullish",
+        "<bot>": "The tweet is about: $ICICIBANK.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $ICICIBANK.NSE  \nThe stock is moving with the upward trend, but today formed a doji pattern. Bullish",
+        "<bot>": "The tweet is about: $ICICIBANK.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $ICICIBANK.NSE Look for the next possibility in this counter. Bullish",
+        "<bot>": "The tweet is about: $ICICIBANK.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $ICICIBANK.NSE were in the top gainers today with the High day range of 942.45 and the  Low day range of 923.45. At 2:30 ICICI bank is trading at 931.50  with 9.35 or 1.01% high from its prior close at 921.70. Bullish",
+        "<bot>": "The tweet is about: $ICICIBANK.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $ICICIBANK.NSE  \nIcici bank is slowly moving towards its target level of 950. \nFPI shareholding in ICICI Bank remained unchanged at 44 per cent in FY23. \nIf it sustain above 950 then more upside movement is possible. Bullish",
+        "<bot>": "The tweet is about: $ICICIBANK.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $ICICIBANK.NSE Stock is trading above Ema levels indicating bullish trend. Macd is also bullish and Rsi is in overbought zone. Bullish",
+        "<bot>": "The tweet is about: $ICICIBANK.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $ICICIBANK.NSE MACD bearish crossover, RSI just over the overbought zone. \nshort term bearish signals. Bearish",
+        "<bot>": "The tweet is about: $ICICIBANK.NSE and it shows a Bearish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $ICICIBANK.NSE \nGAINING MOMENTUM.!\nSTOCK LOOKS GOOD \nTODAY CLOSING ABV 926 \nWILL BE MORE UPSIDE TARGET. 955,980.1000 Bullish",
+        "<bot>": "The tweet is about: $ICICIBANK.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $ICICIBANK.NSE Trade in action! Bullish",
+        "<bot>": "The tweet is about: $ICICIBANK.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $ICICIBANK.NSE  \nICICI bank is showing strength after results. \nNext resistance level is 950 and above that momentum will be great. Bullish",
+        "<bot>": "The tweet is about: $ICICIBANK.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $ICICIBANK.NSE KR Choksey Target Price 1175 \nMotilal Oswal Target Price 1150 \nPrabhudas Lilladher Target Price 1130 Bullish",
+        "<bot>": "The tweet is about: $ICICIBANK.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n Stay long till $ICICIBANK.NSE hits the target of 958. Bullish",
+        "<bot>": "The tweet is about: $ICICIBANK.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $AXISBANK.NSE banks looking strong to me $HDFCBANK.NSE $ICICIBANK.NSE ... except $YESBANK.NSE lol Bullish",
+        "<bot>": "The tweet is about: $AXISBANK.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n Sharekhan's Research helps you cut through the clutter \ud83d\udca1 \nWatch now our analysis with 3R Research Podcast! \n \nClick on this link to watch it now: youtu.be/lIFuWM2dz9w \nDisclaimer: bit.ly/41t4F0J \n \nToday, we covered: \n\ud83c\udfaf $RELIANCE.NSE  \n\ud83c\udfaf $ICICIBANK.NSE  \n \n@Sharekhan $SENSEX $NIFTY50.NSE $NIFTY100.NSE Bullish",
+        "<bot>": "The tweet is about: $RELIANCE.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $NIFTY50.NSE  looking ready for Wave 5 Rally.\nComming week looks interesting with\nGood Results from $RELIANCE.NSE  and\n$ICICIBANK.NSE \n\nStockMarketindia trading \n\nbit.ly/2M5aX41\nFree EBook Elliottwave Bullish",
+        "<bot>": "The tweet is about: $NIFTY50.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $RELIANCE.NSE  \nThe share prices of Reliance Industries (RIL) decreased for the second consecutive day in Tuesday's trading session, in anticipation of the company's quarterly results that are scheduled to be announced later this week. During the quarter, the average prices of crude oil dropped by 8% sequentially to $81.40 per barrel, primarily due to concerns over a recession in the US and European banking sector in late March, as noted by analysts. By the end of the quarter, crude oil prices had fallen by 6% QoQ to approximately $79.7 per barrel. As RIL gears up to release its quarterly results, its target is set at Rs 2,896, indicating a potential 24% increase in the stock value. Bullish",
+        "<bot>": "The tweet is about: $RELIANCE.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $RELIANCE.NSE is ready for up move.......only for intraday Bullish",
+        "<bot>": "The tweet is about: $RELIANCE.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $RELIANCE.NSE MACD bullish crossover, RSI in the oversold zone. \nStrong bullish signals. Bullish",
+        "<bot>": "The tweet is about: $RELIANCE.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n Short $RELIANCE.NSE below 2349 for a target of 2273. Bearish",
+        "<bot>": "The tweet is about: $RELIANCE.NSE and it shows a Bearish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $RELIANCE.NSE Above 2300 its bullish and  \nwe can expect upside. Bullish",
+        "<bot>": "The tweet is about: $RELIANCE.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $RELIANCE.NSE  \nTough the MACD is above the signal line, but the stock is trading between the EMA-50 & 200 level, moving towards the support level, giving bearish indication. Bearish",
+        "<bot>": "The tweet is about: $RELIANCE.NSE and it shows a Bearish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $RELIANCE.NSE I think EVERYONE knows this stock will be much higher in 5-10 years. For now, above 2180 is OK Bullish",
+        "<bot>": "The tweet is about: $RELIANCE.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $RELIANCE.NSE  \nReliance Industries Ltd (RIL) has started the process to set up an infrastructure investment trust (InvIT), under which the group can monetise the backend warehousing and logistics assets of its retail business, said industry sources. Reliance Retail, the company which operates the retail business of the billionaire Mukesh Ambani-led Reliance Industries. Bullish",
+        "<bot>": "The tweet is about: $RELIANCE.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $RELIANCE.NSE \nCMP: 2355.50\nWith a target price of 2440, the stock is bullish. If breakout happens, the stock can cross 2600. Bullish",
+        "<bot>": "The tweet is about: $RELIANCE.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $RELIANCE.NSE Stock is currently trading between Ema-50 & 200 levels giving weak bullish signals. Whereas, Macd is highly bullish. Bullish",
+        "<bot>": "The tweet is about: $RELIANCE.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $RELIANCE.NSE nice bounce but so much resistance at 2380 to 2400. Long term bulls dont care about day to day action though. Bullish",
+        "<bot>": "The tweet is about: $RELIANCE.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $RELIANCE.NSE  \nSources familiar with the matter have revealed that Reliance Consumer Products Ltd, the FMCG division of Reliance Retail Ventures Ltd (RRVL), has plans to introduce various brands across multiple categories, including personal grooming, confectionery, home care, home essentials, and F&B. Additionally, the company intends to acquire well-established legacy brands such as Campa and Lotus. To expand its product manufacturing capabilities, the company is looking to form partnerships while also establishing a nationwide dealer and distributor network during this financial year. Bullish",
+        "<bot>": "The tweet is about: $RELIANCE.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $RELIANCE.NSE \nNear its breakout\nAnd tight consolidation at resistance\nExpecting a bullish reversal.. Bullish",
+        "<bot>": "The tweet is about: $RELIANCE.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n Shares of $RELIANCE.NSE trade at a 40% premium to the historical median: \n \nReliance Industries, a member of the Nifty, trades at a 40% premium over its 10-year average PE multiple of 15.4 times, or 21.6 times trailing 12-month EPS.  \n \nReliance Industries is one of a small number of Nifty stocks that are now trading at significant premiums to their long-term averages. Price projections point to little further upside potential. Bullish",
+        "<bot>": "The tweet is about: $RELIANCE.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $RELIANCE.NSE Daily time frame \nRSI-55 (Neutral) \nMoving sideways along the support level 2300 and sustaining this can trigger upside movement with immediate resistance around 2450. Bullish",
+        "<bot>": "The tweet is about: $RELIANCE.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $RELIANCE.NSE  \nWith the target of 2218 stock is looking bearish. Bearish",
+        "<bot>": "The tweet is about: $RELIANCE.NSE and it shows a Bearish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n According to the findings of the research of $RELIANCE.NSE , the short-term trend is bearish, the medium-term trend is neutral, and the long-term trend is negative. Resistance levels are located at 2,417 and 2,440, while support levels are located at 2,201 and 2,203. Bullish",
+        "<bot>": "The tweet is about: $RELIANCE.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n Short $RELIANCE.NSE at CMP for a target of 2180 Bearish",
+        "<bot>": "The tweet is about: $RELIANCE.NSE and it shows a Bearish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $RELIANCE.NSE looks like in talks to distribute Campa Cola ... theyre entering all the biggest industries in India. Bullish",
+        "<bot>": "The tweet is about: $RELIANCE.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $NYKAA.NSE so much competition coming w the big guys, no wonder this has been performing terribly $RELIANCE.NSE $TATACONSUM.NSE ... B2C cosmetics is tough. Be careful here if u own Bearish",
+        "<bot>": "The tweet is about: $NYKAA.NSE and it shows a Bearish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $RELIANCE.NSE reliance trying to get into milk industry now? $UMANGDAIRY.NSE $PARAGMILK.NSE $VADILALIND.NSE $DODLA.NSE Bullish",
+        "<bot>": "The tweet is about: $RELIANCE.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $RELIANCE.NSE After a long bearish trend, stock has formed a resistance at Ema-50 levels. Stock may soon break this resistance and move upwards. Macd is already bullish. Bullish",
+        "<bot>": "The tweet is about: $RELIANCE.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n $RELIANCE.NSE  \nFollowing its announcement to proceed with the demerger of its financial services business, Reliance Industries is expected to rename Reliance Strategic Investments as Jio Financial Services Limited, and list it separately on the stock exchange. However, obtaining all required approvals for the listing of Jio Financial Services' shares may take up to six months. As a result, there is a possibility of a 33% potential upside for the company. Bullish",
+        "<bot>": "The tweet is about: $RELIANCE.NSE and it shows a Bullish sentiment"
+    },
+    {
+        "<human>": "Which company is the tweet about and what is the sentiment of the tweet?\n Nifty soars past 17300, $SENSEX surges 1.5%; \n \n\u201cIndia\u2019s major equity indices manage to close in green after three consecutive closes for weekly as well as monthly negative closing. Positive clues from the global equity market and rapid buying in Index heavyweight $RELIANCE.NSE which rallied over 4% today lead the benchmark index $NIFTY50.NSE higher. The recent upward trend in the Indian Stock Indices is being driven by improvement in the current-account deficit and the RBI\u2019s optimistic GDP estimate. However, market is expected to remain under pressure as it continues with the Lower-High & Lower-Low formation. It is too early to say that the correction is over in the market, there is a chance that the US economy could enter a recession as credit markets in the US continue under pressure. Unless the Nifty closes above 17800, there is little chance of the bullish trend in the market,\u201d said @AkhileshJat, Category Manager \u2013 Equity Research. \n \nRead More: \nfinancialexpress.com/market... Bullish",
+        "<bot>": "The tweet is about: $SENSEX and it shows a Bullish sentiment"
+    },
+    {
+        "human": "What is the amount spent by user 201 and the category of transaction undertaken?",
+        "bot": "User 201 spent 100000 on a transaction related to education"
+    },
+    {
+        "human": "What is the amount spent by user 300 and the category of transaction undertaken?",
+        "bot": "User 300 spent 30000 on a transaction related to monthly rent"
+    },
+    {
+        "human": "What is the amount spent by user 33 and the category of transaction undertaken?",
+        "bot": "User 33 spent 7500 on a transaction related to day-to-day affairs"
+    },
+    {
+        "human": "What is the amount spent by user 47 and the category of transaction undertaken?",
+        "bot": "User 47 spent 80000 on a transaction related to car maintenance"
+    },
+    {
+        "human": "What is the amount spent by user 59 and the category of transaction undertaken?",
+        "bot": "User 59 spent 300 on a transaction related to day-to-day affairs"
+    },
+    {
+        "human": "What is the amount spent by user 6 and the category of transaction undertaken?",
+        "bot": "User 6 spent 250000 on a transaction related to education"
+    },
+    {
+        "human": "What is the amount spent by user 87 and the category of transaction undertaken?",
+        "bot": "User 87 spent 200000 on a transaction related to investment"
+    },
+    {
+        "human": "What is the amount spent by user 180 and the category of transaction undertaken?",
+        "bot": "User 180 spent 200085 on a transaction related to education"
+    },
+    {
+        "human": "What is the amount spent by user 29 and the category of transaction undertaken?",
+        "bot": "User 29 spent 2262 on a transaction related to day-to-day affairs"
+    },
+    {
+        "human": "What is the amount spent by user 80 and the category of transaction undertaken?",
+        "bot": "User 80 spent 48000 on a transaction related to car maintenance"
+    },
+    {
+        "human": "What is the amount spent by user 1 and the category of transaction undertaken?",
+        "bot": "User 1 spent 1278600 on a transaction related to car purchases"
+    },
+    {
+        "human": "What is the amount spent by user 240 and the category of transaction undertaken?",
+        "bot": "User 240 spent 3047 on a transaction related to day-to-day affairs"
+    },
+    {
+        "human": "What is the amount spent by user 133 and the category of transaction undertaken?",
+        "bot": "User 133 spent 300000 on a transaction related to education"
+    },
+    {
+        "human": "What is the amount spent by user 5 and the category of transaction undertaken?",
+        "bot": "User 5 spent 357114 on a transaction related to weddings"
+    },
+    {
+        "human": "What is the amount spent by user 72 and the category of transaction undertaken?",
+        "bot": "User 72 spent 83285 on a transaction related to housing"
+    },
+    {
+        "human": "What is the amount spent by user 58 and the category of transaction undertaken?",
+        "bot": "User 58 spent 409457 on a transaction related to housing"
+    },
+    {
+        "human": "What is the amount spent by user 2 and the category of transaction undertaken?",
+        "bot": "User 2 spent 920 on a transaction related to day-to-day affairs"
+    },
+    {
+        "human": "What is the amount spent by user 9 and the category of transaction undertaken?",
+        "bot": "User 9 spent 961800 on a transaction related to car purchases"
+    },
+    {
+        "human": "What is the amount spent by user 221 and the category of transaction undertaken?",
+        "bot": "User 221 spent 500000 on a transaction related to investments"
+    },
+    {
+        "human": "What is the amount spent by user 42 and the category of transaction undertaken?",
+        "bot": "User 42 spent 200000 on a transaction related to education"
+    },
+    {
+        "human": "What is the amount spent by user 10 and the category of transaction undertaken?",
+        "bot": "User 10 spent 150000 on a transaction related to weddings"
+    },
+    {
+        "human": "What is the amount spent by user 3 and the category of transaction undertaken?",
+        "bot": "User 3 spent 56750 on a transaction related to housing"
+    },
+    {
+        "human": "What is the amount spent by user 8 and the category of transaction undertaken?",
+        "bot": "User 8 spent 26000 on a transaction related to housing"
+    },
+    {
+        "human": "What is the amount spent by user 11 and the category of transaction undertaken?",
+        "bot": "User 11 spent 618 on a transaction related to day-to-day affairs"
+    },
+    {
+        "human": "What is the amount spent by user 50 and the category of transaction undertaken?",
+        "bot": "User 50 spent 72000 on a transaction related to car maintenance"
+    },
+    {
+        "human": "What is the amount spent by user 195 and the category of transaction undertaken?",
+        "bot": "User 195 spent 650000 on a transaction related to education"
+    },
+    {
+        "human": "What is the amount spent by user 166 and the category of transaction undertaken?",
+        "bot": "User 166 spent 80000 on a transaction related to housing"
+    },
+    {
+        "human": "What is the amount spent by user 325 and the category of transaction undertaken?",
+        "bot": "User 325 spent 350000 on a transaction related to weddings"
+    },
+    {
+        "human": "What is the amount spent by user 176 and the category of transaction undertaken?",
+        "bot": "User 176 spent 450000 on a transaction related to education"
+    },
+    {
+        "human": "What is the amount spent by user 7 and the category of transaction undertaken?",
+        "bot": "User 7 spent 775000 on a transaction related to car purchases"
+    },
+    {
+        "human": "What is the amount spent by user 23 and the category of transaction undertaken?",
+        "bot": "User 23 spent 82 on a transaction related to day-to-day affairs"
+    },
+    {
+        "human": "What is the amount spent by user 150 and the category of transaction undertaken?",
+        "bot": "User 150 spent 750000 on a transaction related to investments"
+    },
+    {
+        "human": "What is the amount spent by user 234 and the category of transaction undertaken?",
+        "bot": "User 234 spent 428 on a transaction related to day-to-day affairs"
+    },
+    {
+        "human": "What is the amount spent by user 4 and the category of transaction undertaken?",
+        "bot": "User 4 spent 200000 on a transaction related to education"
+    },
+    {
+        "human": "What is the amount spent by user 70 and the category of transaction undertaken?",
+        "bot": "User 70 spent 190600 on a transaction related to weddings"
+    }
+
+]
